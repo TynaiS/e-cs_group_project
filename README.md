@@ -9,8 +9,5 @@ Programming language: Python
 Library of programming functions mainly for real-time computer vision: OpenCV
 Library for python that is used for image processing: SciPy
 
-Guides on Youtube:
-https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
-
 Face landmark file:
 https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
